@@ -4,7 +4,7 @@ import os
 import threading
 
 # Directory where images are saved
-dataset_dir = r"C:\Users\steve\OneDrive\Desktop\Learn\python\colgproject\joe\dataset"
+dataset_dir = r"YOUR DATASET PATH HERE"
 
 def load_reference_images():
     reference_images = {}
